@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Sri Harshini!
 
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/sriharshini02/sriharshini02&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile%20Views&edge_flat=false)
+
 I'm a passionate developer with experience in full-stack web development, machine learning, and automation. I love building smart applications that solve real-world problems — from pharmacy assistants powered by OCR to AI-driven supply chain tools and classroom behavior analysis platforms.
 
 ---
