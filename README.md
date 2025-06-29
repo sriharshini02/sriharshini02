@@ -10,7 +10,7 @@ I'm a passionate developer with experience in full-stack web development, machin
   A standalone software using Python and MySQL to extract medicines from handwritten prescriptions using Gemini OCR. Built with role-based dashboards (Admin, Pharmacist, Customer) and `.env` integration for credentials.
 
 - **AI Supply Bot (Web App)**  
-  A Django + React platform that fetches and indexes products using raw materials from e-commerce sites like Instacart. Integrates outreach tools like Apollo.io for connecting with manufacturers.
+  A Django platform that fetches and indexes products using raw materials from e-commerce sites like Instacart. Integrates outreach tools like Apollo.io for connecting with manufacturers.
 
 - **Classroom Behavior Analytics (Research Project)**  
   AI-powered analysis of student emotions, attention, and posture using datasets like FER2013, AffectNet, CMU Panoptic, and GazeCapture. Combines pretrained and custom-trained models for actionable classroom insights.
